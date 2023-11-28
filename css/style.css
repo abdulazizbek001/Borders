@@ -1,0 +1,27 @@
+
+.lambo{
+    border-radius: 0% 100% 0% 100% / 12% 84% 16% 88% ;
+    border: 5px solid;
+    
+}
+.salom{
+    border-radius: 100% 0% 85% 15% / 100% 3% 97% 0%  ;
+    border: 6px dashed;
+   
+}
+.olam{
+    border-radius: 27% 73% 0% 100% / 62% 16% 84% 38% ;
+    border: 7px dotted;
+}
+.ol{
+    border-radius: 0% 100% 34% 66% / 0% 100% 0% 100% ;
+    border: 8px double;
+}
+.olma{
+    border-radius: 50% 50% 34% 66% / 0% 100% 0% 100% ;
+    border: 8px groove;
+}
+.olmi{
+    border-radius: 25% 75% 34% 66% / 0% 0% 100% 100% ;
+    border: 10px hidden; 
+}
